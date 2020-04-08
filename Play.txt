@@ -6,3 +6,4 @@ Test signing - 4th -U1
 Test signing -5th -U1
 One more -6th -U1
 7th by U1
+8th by U1 from github desktop
